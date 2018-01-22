@@ -1,7 +1,5 @@
 package sda.md;
 
-import java.util.StringTokenizer;
-
 public class CheckHello {
 
     public int check(String input, String searchWord) {
